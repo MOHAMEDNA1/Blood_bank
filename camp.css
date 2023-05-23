@@ -1,0 +1,49 @@
+body
+{
+    margin: 0;
+    padding-top: 0;
+    display: flex;
+    align-items: center;
+    font-family: 'jost', sans-serif;
+    background: linear-gradient(to bottom,#0f0c29,#302b63,#24243e);
+}
+.p
+{
+   margin-left: 50px;
+ 
+}
+.h
+{
+    margin-left: 30px;
+    
+}
+.f
+{
+    margin-left: 40px;
+    
+}
+.g
+{
+    margin-right: 100px;
+    margin-left: 60px;
+}
+.i
+{
+    margin-left: 20px;
+}
+.j
+{
+    margin-left: 30px;
+}
+.m
+{
+    margin-left: 120px;
+}
+.k
+{
+    margin-left: 25px;
+}
+.o
+{
+    margin-left: 40px;
+}
